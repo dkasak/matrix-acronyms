@@ -67,6 +67,7 @@
 
 ## T
 
+- TOFU: [Trust On First Use](https://en.wikipedia.org/wiki/Trust_on_first_use)
 - TWIM: [This Week in Matrix](https://matrix.org/blog/category/this-week-in-matrix)
 
 ## U
